@@ -66,3 +66,6 @@ dotnet run
 ![Output Image](./images/1.png)
 ### _Pagination_
 ![Output Image](./images/2.png)
+
+## 4 Project Structure
+![Output Image](./images/3.png)
