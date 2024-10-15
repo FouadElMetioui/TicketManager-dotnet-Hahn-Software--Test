@@ -21,7 +21,7 @@ The project consists of two main components:
 
 In this section, you will create the SQL Server database required for the application and configure the connection string in the `appsettings.json` file.
 
-### 1. Create the Database in SQL Server
+### 2. Create the Database in SQL Server
 
 You need to create a database named **Ticket-management**. Follow these steps:
 
@@ -67,5 +67,5 @@ dotnet run
 ### _Pagination_
 ![Output Image](./images/2.png)
 
-## 4 Project Structure
+## 4 Project 
 ![Output Image](./images/3.png)
